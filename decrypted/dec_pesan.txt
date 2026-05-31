@@ -1,0 +1,3 @@
+Ini adalah data rahasia.
+File ini akan dienkripsi menggunakan AES.
+Universitas Muhammadiyah Makassar.
